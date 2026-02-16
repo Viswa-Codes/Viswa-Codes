@@ -34,7 +34,7 @@ I am a performance-driven Software Engineer focused on building scalable web app
 
 ### 🌟 Featured Projects
 - **[ReactNews](https://github.com/Viswa-Codes/ReactNews):** Real-time news portal optimized for high-frequency state synchronization and smooth UX.
-- **[iNotebook](https://github.com/Viswa-Codes/mynotebook):** Secure cloud vault featuring JWT authentication and optimized MongoDB indexing for $O(\log N)$ retrieval.
+- **[myNotebook](https://github.com/Viswa-Codes/mynotebook):** Secure cloud vault featuring JWT authentication and optimized MongoDB indexing for $O(\log N)$ retrieval.
 
 ---
 
